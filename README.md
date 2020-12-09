@@ -7,3 +7,5 @@ As with the other GET and POST requests that you’ve been making, an async POST
 We still have the same structure of using try and catch as before. But, in the fetch() call, we now have to include an additional argument that contains more information like method and body.
 
 We’ll be explaining the why’s and how’s of the boilerplate code for async POST requests in the next lesson.
+
+https://content.codecademy.com/courses/intermediate-javascript-requests/diagrams/async%20await%20POST%20transparent.svg
